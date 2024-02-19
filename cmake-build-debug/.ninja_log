@@ -1,0 +1,19 @@
+# ninja log v5
+1	4948	1707921423531719103	CMakeFiles/untitled1.dir/Airport.c.o	98facf23ce20d2c7
+0	57	1707922851518297253	CMakeFiles/untitled1.dir/Date.c.o	3f2c96c5e59bdb9d
+1	49	1707922952196496611	CMakeFiles/untitled1.dir/main.c.o	4dadc9873ef80e2b
+49	95	1707922952241566325	untitled1	f005289407e6c611
+1	4948	1707921423531766644	CMakeFiles/untitled1.dir/Plane.c.o	44d80dca5e786162
+1	40	1707922447378169202	CMakeFiles/untitled1.dir/Flight.c.o	493fb47ba5cba95d
+1	64	1707906990851467331	CMakeFiles/untitled1.dir/generalStrings.c.o	f724795713326336
+1	40	1707922447378167952	CMakeFiles/untitled1.dir/Airline.c.o	b4430b09fcbb602f
+1	30	1707921470361420000	CMakeFiles/untitled1.dir/AirportManager.c.o	c583ee5debd257ee
+2	56	1707927703359532765	CMakeFiles/untitled1.dir/Plane.c.o	58fc11d21e43512
+1	74	1707927703376752499	CMakeFiles/untitled1.dir/main.c.o	faddaf8ec66b35aa
+2	77	1707927703378758970	CMakeFiles/untitled1.dir/AirportManager.c.o	1e5ca223e84c8fd5
+1	85	1707927703385690389	CMakeFiles/untitled1.dir/Date.c.o	b61d9b7537ad02ff
+2	85	1707927703386502686	CMakeFiles/untitled1.dir/Airport.c.o	13cd1cff67118593
+1	88	1707927703392422599	CMakeFiles/untitled1.dir/generalStrings.c.o	1ab7322e627276be
+56	111	1707927703414363946	CMakeFiles/untitled1.dir/Flight.c.o	1f102b74b6489016
+74	130	1707927703434786076	CMakeFiles/untitled1.dir/Airline.c.o	cba6655baf70c5c4
+131	229	1707927703532746115	untitled1	f005289407e6c611
